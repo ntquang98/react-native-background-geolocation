@@ -1,4 +1,4 @@
 registry=https://npm.pkg.github.com
 @mapmapsquyen:registry=https://npm.pkg.github.com
-//npm.pkg.github.com/:_authToken=4d82f41a9110423a1b20b05bcb31c7c1cc347130
+//npm.pkg.github.com/:_authToken=da4699783e6c19e20fa6fe7fb9bb277897a2d010
 always-auth=true
