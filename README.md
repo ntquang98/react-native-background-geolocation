@@ -1,4 +1,7 @@
-# @mauron85/react-native-background-geolocation
+# @ntquang98/react-native-background-geolocation
+
+> This is a fork from @mauron85/react-native-background-geolocation to working with graphql server.
+> The only different is instead of send array of postTemplate it send correct postTemplate to server.
 
 [![CircleCI](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master.svg?style=shield)](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master)
 [![issuehunt-shield-v1](issuehunt-shield-v1.svg)](https://issuehunt.io/r/mauron85/react-native-background-geolocation/)
